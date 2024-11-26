@@ -4,6 +4,10 @@
 The India General Elections Result Analysis 2024 project aims to provide detailed insights into the election results using SQL and SSMS. By analysing the results at the state and constituency levels, the project offers comprehensive insights into seat allocation, voting patterns, and party performance. It involves querying, transforming, and analysing election data stored in relational databases to answer critical questions related to alliances, winning margins, and voting methods.
 The primary objective is to empower stakeholders, including political analysts, policymakers, and citizens, with data-driven insights into the electoral outcomes of 2024.
 
+**Project Teckstack:**
+1. SQL
+2. ToolS: SQL Server Management Studio (SSMS)
+
 **Features:**
 1.	Total Seat Analysis:
   a.	Queries determine the total number of seats available for elections at the national and state levels.
